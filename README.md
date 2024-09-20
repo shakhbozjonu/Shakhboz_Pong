@@ -1,3 +1,5 @@
+**PROBLEMS WITH UNITY CLOUD AND GITHUB DESKTOP, SO HAD TO COMMIT MANUALLY**
+
 For Left Racket:
 
 To move racket up press W
